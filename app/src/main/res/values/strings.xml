@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Mon Resultat</string>
+    <string name="cin">Introduire votre CIN</string>
+    <string name="cin_in">Taper CIN</string>
+    <string name="moy_in">Taper Moyenne</string>
+    <string name="result_in">Resultat</string>
+    <string name="consult">Consulter</string>
+    <string name="add">Ajouter</string>
+    <string name="cin_aff">CIN</string>
+    <string name="moy_aff">Moyen</string>
+    <string name="update">Mise A Jour</string>
+    <string name="delete"> Supprimer </string>
+    <string name="alldata"> Consulter toute les moyennes </string>
+
+    <string name="_1">1</string>
+    <string name="res_aff">Resultat</string>
+    <string name="user">Enter UserName</string>
+    <string name="password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="admin_log">Se connecter en tant qu\'administrateur</string>
+    <string-array name="resultat">
+        <item>Admis</item>
+        <item>Admis Avec Rachat</item>
+        <item>Redouble</item>
+        <item>Exclu</item>
+    </string-array>
+</resources>
